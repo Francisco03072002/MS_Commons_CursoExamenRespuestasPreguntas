@@ -1,0 +1,5 @@
+package com.mx.app.microservicio.curso.models.entity;
+
+public class CursoAlumno {
+
+}

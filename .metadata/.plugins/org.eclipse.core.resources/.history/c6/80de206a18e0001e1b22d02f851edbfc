@@ -1,0 +1,7 @@
+package com.mx.app.microservicio.curso.models.entity;
+
+Entity
+@Table(name="cursos")
+public class Curso {
+
+}

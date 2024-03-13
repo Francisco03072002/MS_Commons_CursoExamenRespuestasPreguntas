@@ -1,0 +1,13 @@
+package com.mx.app.microservicio.examen;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MicroservicoExamenApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MicroservicoExamenApplication.class, args);
+	}
+
+}

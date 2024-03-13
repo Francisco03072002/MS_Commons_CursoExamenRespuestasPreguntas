@@ -1,0 +1,10 @@
+package com.mx.app.microservicio.alumno.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class AlumnoController {
+
+	
+	
+}

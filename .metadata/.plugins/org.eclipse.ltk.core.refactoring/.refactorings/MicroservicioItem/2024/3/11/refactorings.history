@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.mx.springcloud.app.microservicio.item.services.ItemServiceImple.java&apos; to &apos;ItemServiceImpl.java&apos;&#x0D;&#x0A;- Original project: &apos;MicroservicioItem&apos;&#x0D;&#x0A;- Original element: &apos;com.mx.springcloud.app.microservicio.item.services.ItemServiceImple.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.mx.springcloud.app.microservicio.item.services.ItemServiceImpl.java&apos;" description="Rename compilation unit &apos;ItemServiceImple.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mx.springcloud.app.microservicio.item.services{ItemServiceImple.java" name="ItemServiceImpl.java" references="false" stamp="1710302724020" version="1.0"/>
+</session>

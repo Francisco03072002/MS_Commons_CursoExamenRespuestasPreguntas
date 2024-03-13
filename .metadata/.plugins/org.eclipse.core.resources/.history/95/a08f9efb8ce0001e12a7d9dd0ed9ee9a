@@ -1,0 +1,5 @@
+package com.mx.app.microservicio.examen.models.repository;
+
+public interface ExamenRepository {
+
+}

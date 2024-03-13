@@ -1,0 +1,5 @@
+package com.mx.commons.microservicio.alumno.models.entity;
+
+public class Alumno {
+
+}

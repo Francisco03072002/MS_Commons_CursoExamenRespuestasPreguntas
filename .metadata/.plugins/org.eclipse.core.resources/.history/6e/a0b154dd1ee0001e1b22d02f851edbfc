@@ -1,0 +1,5 @@
+package com.mx.app.microservicio.curso.services;
+
+public class CursoServiceImpl {
+
+}

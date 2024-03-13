@@ -1,0 +1,11 @@
+package com.mx.app.microservicio.alumno.services;
+
+public interface AlumnoService {
+
+	public List<Alumno> findByNombreOrApellido(String term);
+
+	public Iterable<Alumno> findAllById(Iterable<Long> ids);
+
+	public void eliminarCursoAlumnoPorId(Long id);
+
+}

@@ -1,0 +1,5 @@
+package com.mx.app.microservicio.curso.client;
+
+public interface AlumnoFeignClient {
+
+}

@@ -1,0 +1,5 @@
+package com.mx.microservicios.commons.examenes.models.entity;
+
+public class Examen {
+
+}

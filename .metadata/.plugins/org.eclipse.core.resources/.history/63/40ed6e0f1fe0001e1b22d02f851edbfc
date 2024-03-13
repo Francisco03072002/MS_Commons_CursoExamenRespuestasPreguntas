@@ -1,0 +1,12 @@
+package com.mx.app.microservicio.curso.services;
+
+import org.springframework.stereotype.Service;
+
+import com.mx.app.microservicio.curso.models.entity.Curso;
+import com.mx.app.microservicio.curso.models.repository.CursoRespository;
+import com.mx.microservicios.commons.services.CommonServiceImpl;
+
+@Service
+public class CursoServiceImpl extends CommonServiceImpl<Curso, CursoRespository> implements CursoService{
+
+}

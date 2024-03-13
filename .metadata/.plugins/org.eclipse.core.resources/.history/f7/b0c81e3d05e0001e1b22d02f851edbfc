@@ -1,0 +1,5 @@
+package com.mx.app.microservicio.alumno.models.repository;
+
+public interface AlumnoRepository {
+
+}

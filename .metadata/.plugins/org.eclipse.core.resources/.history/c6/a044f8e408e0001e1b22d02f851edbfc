@@ -1,0 +1,5 @@
+package com.mx.microservicios.commons.controllers;
+
+public class CommonController<E, S extends CommonService<E>> {
+
+}

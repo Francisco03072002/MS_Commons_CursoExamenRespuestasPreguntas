@@ -1,0 +1,7 @@
+package com.mx.app.microservicio.alumno.controllers;
+
+public class AlumnoController extends CommonController<Alumno, AlumnoService> {
+
+	
+	
+}

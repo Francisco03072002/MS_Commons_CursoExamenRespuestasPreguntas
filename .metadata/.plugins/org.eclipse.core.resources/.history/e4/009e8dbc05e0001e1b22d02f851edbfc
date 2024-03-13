@@ -1,0 +1,10 @@
+package com.mx.app.microservicio.alumno.client;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(name="microservicio-cursos")
+public interface CursoFeignClient {
+
+	
+	
+}

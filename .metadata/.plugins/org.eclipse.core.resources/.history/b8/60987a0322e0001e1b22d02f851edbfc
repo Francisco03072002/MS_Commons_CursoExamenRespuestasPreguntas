@@ -1,0 +1,5 @@
+package com.mx.app.microservicio.curso.controllers;
+
+public class CursoController {
+
+}

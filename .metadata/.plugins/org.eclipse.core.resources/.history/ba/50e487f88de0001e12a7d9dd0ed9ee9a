@@ -1,0 +1,5 @@
+package com.mx.app.microservicio.examen.controllers;
+
+public class ExamenController {
+
+}

@@ -1,0 +1,5 @@
+package com.mx.app.microservicio.curso.models.repository;
+
+public interface CursoRespository {
+
+}

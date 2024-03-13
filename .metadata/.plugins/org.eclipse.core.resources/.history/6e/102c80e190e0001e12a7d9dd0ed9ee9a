@@ -1,0 +1,5 @@
+package com.mx.app.microservicio.respuesta.client;
+
+public interface ExamenFeignClient {
+
+}

@@ -1,0 +1,7 @@
+package com.mx.microservicios.commons.services;
+
+import org.springframework.data.repository.PagingAndSortingRepository;
+
+public interface CrudPagingAndSortingRepository extends PagingAndSortingRepository<T, ID> {
+
+}

@@ -1,0 +1,24 @@
+package com.mx.springcloud.app.microservicio.item.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.mx.springcloud.app.microservicio.item.models.Item;
+
+@Service
+public class ItemServiceImple implements ItemService {
+
+	private ItemServiceImple
+	
+	@Override
+	public List<Item> findAll() {
+		return null;
+	}
+
+	@Override
+	public Item findById(Long id, Integer cantidad) {
+		return null;
+	}
+
+}
